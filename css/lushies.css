@@ -732,7 +732,7 @@ input, textarea {
         margin-top:3em;
     }
 
-    footer .link {
+    footer .link a {
         background-color:#141313;
         padding:1px;
         border-radius:5px;
